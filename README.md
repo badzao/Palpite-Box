@@ -1,6 +1,6 @@
 # PalpiteBox - Semana Fullstack Master
 
-[![HitCount]
+[![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box)
 ## Início
 
 
